@@ -2,9 +2,6 @@
 FROM tomcat
 MAINTAINER Xiaobing Liu "bjlxbliu@cn.ibm.com"
 
-RUN cd /usr/
-    && git clone https://github.com/kohsuke/github-api.git -b master
-    
 
 EXPOSE 8080
 
