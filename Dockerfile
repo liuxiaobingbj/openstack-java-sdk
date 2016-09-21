@@ -2,7 +2,6 @@
 FROM tomcat
 MAINTAINER Xiaobing Liu "bjlxbliu@cn.ibm.com"
 
-safdsfas
 
 EXPOSE 8080
 
